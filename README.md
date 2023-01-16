@@ -103,6 +103,7 @@ Publish the website in the given URL.
 
 
 ### Home Page:
+![server](https://user-images.githubusercontent.com/118541549/212706899-b24e402a-90dc-4605-b2a7-b2d4b40000b9.jpeg)
 
 
 ## Result:
