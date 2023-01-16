@@ -99,6 +99,7 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
+
 ![](area.jpeg)
 
 ### Home Page:
